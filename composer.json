@@ -1,0 +1,20 @@
+{
+  "name": "nodeo/pluto",
+  "type": "library",
+  "description": "A lightweight dependency injection framework for PHP 8",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Juan Valero",
+      "email": "juan.valero@nodeo.fr"
+    }
+  ],
+  "require": {
+    "php": "^8.0"
+  },
+  "require-dev": {
+    "squizlabs/php_codesniffer": "^3.6.0",
+    "phpunit/phpunit": "^9.5.9"
+  }
+}
